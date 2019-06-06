@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/jakob/OneDrive - The University of Western Ontario/Year 2/Comp Sci 2211/Projects/Assignment 4/Part Two/main.c
+stdio.h
+-
+math.h
+-
+
